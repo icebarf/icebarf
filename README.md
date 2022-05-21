@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icebarf&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=icebarf&theme=radical&hide_border=false&area=false)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=icebarf&theme=gotham&hide_border=false&area=false)
 
 <!--
 **icebarf/icebarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
