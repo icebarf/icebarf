@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [a chip8 emulator](https://github.com/icebarf/dy-chip8-reborn/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=icebarf&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=E06C75&icon_color=61AFEF&text_color=A1A1A1&bg_color=0,000000,282c34" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=icebarf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=E06C75&icon_color=61AFEF&text_color=A1A1A1&bg_color=0,000000,282c34" alt="my Github Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icebarf&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
 
