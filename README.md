@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on [a chip8 emulator](https://github.com/icebarf/dy-chip8-reborn/)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icebarf&theme=radical">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icebarf&theme=gotham">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=icebarf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=icebarf&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="my Github Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=icebarf&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=icebarf&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ovi" />
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=icebarf&theme=gotham&hide_border=false&area=false)
 
