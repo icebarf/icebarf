@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [clox - jlox rewritten in C](https://github.com/icebarf/clox-basic)
-- 🌱 I’m currently learning [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 - 📚 I'm currently reading Computer Systems: A Programmer's Perspective
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icebarf&theme=gotham">
