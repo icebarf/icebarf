@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on [clox - jlox rewritten in C](https://github.com/icebarf/clox-basic)
-- 📚 I'm currently reading Computer Systems: A Programmer's Perspective
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icebarf&theme=gotham">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=icebarf&include_all_commits=false&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="my Github Stats"/>
