@@ -1,11 +1,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icebarf&theme=gotham">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=icebarf&include_all_commits=false&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="my Github Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=icebarf&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ovi" />
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=icebarf&theme=gotham&hide_border=false&area=false)
-
 <!--
 **icebarf/icebarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
